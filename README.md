@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Ferramentas Básicas BTM" src="./assets/images/icon/LOGOFatecologicoVerde.png">
+    <img alt="Ferramentas Básicas BTM" width="300" src="./assets/images/icon/LOGOFatecologicoVerde.png">
 </p>
 <h1 align="center">
     🍀 Fatecológico - Fatec Jahú 🍀
